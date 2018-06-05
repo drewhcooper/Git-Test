@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main()
 {
-  int x = 9;
-  int z = 5;
-  for (int x = 0; x < 10; x++)
+  int x = 6;
+  int z = 2;
+  for (int x = 0; x < 7; x++)
   {
-    x++;
+    z++;
   }
   printf("%d\n", x);
 }
